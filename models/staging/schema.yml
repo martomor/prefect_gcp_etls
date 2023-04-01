@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: staging
+    database: dtc-de-376701
+    schema: dezoomcamp
+
+    tables:
+      - name: green
+      - name: yellow
+
